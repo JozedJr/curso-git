@@ -5,7 +5,7 @@ namespace projeto_teste {
         static void Main(string[] args) {
             Console.WriteLine("Olá mundo!");
 
-            Console.ReadLine();
+            Console.WriteLine("Teste realizado com sucesso!");
         }
     }
 }
